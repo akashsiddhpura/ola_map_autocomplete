@@ -1,5 +1,3 @@
-library ola_map_autocomplete;
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'location_autocomplete_provider.dart';
